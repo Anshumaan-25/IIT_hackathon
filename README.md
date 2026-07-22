@@ -61,7 +61,7 @@ Ensure you have an OpenAI API key for embedding generation and GPT-4o response g
 - Fine-tuned models for domain-specific accuracy.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
 
 ## Contributors
 Aryan Tomar  
